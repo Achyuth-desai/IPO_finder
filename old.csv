@@ -1,0 +1,9 @@
+  Price Date  ,  Issuer  ,  Ticker  ,  Industry  ,  Bookrunner(S)  ,  Exchange  ,  Amt+ Over. ($MM)  ,  Offer Price ($)  ,  Price Vs. Last Range  
+09/22/2020,Bentley Systems| Incorporated,BSY,Technology,GS| BAML| RBC,NASDAQ,236|500|000,22,Above
+09/16/2020,Broadstone Net Lease| Inc.,BNL,REIT,JPM| GS| BMO| MS| CAPONE| BBT,New York Stock Exchange,569|500|000,17,Within
+09/22/2020,Corsair Gaming| Inc.,CRSR,Technology,GS| BRCLY| CS| MACQUARIE| RBAIRD| COWEN| STFL,NASDAQ,238|000|000,17,Within
+09/16/2020,Reynolds Group Holdings Limited,PTVE,Industrials,CS| CITI| BAML| GS| RBAIRD| BMO| DB| HSBC| RBC,NASDAQ,574|364|000,14,Below
+09/16/2020,Sumo Logic| Inc.,SUMO,Technology,MS| JPM| RBC| JEFFER,NASDAQ,325|600|000,22,Above
+09/17/2020,Unity Software Inc.,U ,Technology,GS| CS| BAML| BRCLY| WBLAIR,New York Stock Exchange,1|300|000|000,52,Above
+09/15/2020,Jfrog LTD,FROG,Technology,MS| JPM| BAML,NASDAQ,585|351|800,44,Above
+09/17/2020,Vitru Limited,VTRU,Consumer Services,GS| BAML| ITAU| MS| BANCOBRA| BTGPAC| CS| SANTANDER| XPSEC,NASDAQ,96|000|000,16,Within

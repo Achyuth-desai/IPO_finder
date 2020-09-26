@@ -1,0 +1,9 @@
+  Issuer  ,  Ticker  ,  Industry  ,  Bookrunner(S)  ,  Exchange  ,  Amt+ Over. ($MM)  ,  Offer Price ($)  ,  Price Vs. Last Range  ,_merge
+Snowflake Inc.,SNOW,Technology,GS| MS| JPM| ALLEN| CITI| CS| BRCLY| DB| MIZUHO| BBT,New York Stock Exchange,3|360|000|000,120,Above,left_only
+Metacrine| Inc.,MTCR,Healthcare,JEFFER| EVERCORE| RBC,NASDAQ,85|020|000,13,Within,left_only
+Amwell,AMWL,Healthcare,MS| GS| PIPERSAND| UBS| CS| COWEN| BERENBK,New York Stock Exchange,853|299|990,18,Above,left_only
+StepStone Group Inc.,STEP,Financials,JPM| GS| MS| BRCLY| UBS,NASDAQ,315|000|000,18,Above,left_only
+Dyne Therapeutics| Inc.,DYN,Healthcare,JPM| JEFFER| PIPERSAND| STFL,NASDAQ,267|696|966,19,Above,left_only
+Athira Pharma| Inc.,ATHA,Healthcare,GS| JEFFER| STFL,NASDAQ,204|000|000,17,Within,left_only
+COMPASS RX| LTS,CMPS,Healthcare,COWEN| EVERCORE| BERENBK,NASDAQ,127|500|000,17,Above,left_only
+Laird Superfood| Inc.,LSF,Consumer Services,CANACC| CRAIGHAL,NYSE American Exchange,58|300|000,22,Within,left_only
