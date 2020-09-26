@@ -7,7 +7,7 @@ password = "1invoker1"
 recievermail = "desai.achyutha2000@gmail.com"
 subject = "TEST MAIL"
 
-df = pd.read_csv("hehe.csv", usecols=["  Price Date  ","  Issuer  ","  Ticker  " ], parse_dates=["  Price Date  "])
+df = pd.read_csv("hehe.csv", parse_dates=["  Price Date  "]).drop(columns=["_merge"])
 df.to_html('df_diff.html')
 file = open('df_diff.html')
 html = file.read()
