@@ -1,9 +1,11 @@
-  Price Date  ,  Issuer  ,  Ticker  ,  Industry  ,  Bookrunner(S)  ,  Exchange  ,  Amt+ Over. ($MM)  ,  Offer Price ($)  ,  Price Vs. Last Range  
-09/22/2020,Bentley Systems| Incorporated,BSY,Technology,GS| BAML| RBC,NASDAQ,236|500|000,22,Above
-09/16/2020,Broadstone Net Lease| Inc.,BNL,REIT,JPM| GS| BMO| MS| CAPONE| BBT,New York Stock Exchange,569|500|000,17,Within
-09/22/2020,Corsair Gaming| Inc.,CRSR,Technology,GS| BRCLY| CS| MACQUARIE| RBAIRD| COWEN| STFL,NASDAQ,238|000|000,17,Within
-09/16/2020,Reynolds Group Holdings Limited,PTVE,Industrials,CS| CITI| BAML| GS| RBAIRD| BMO| DB| HSBC| RBC,NASDAQ,574|364|000,14,Below
-09/16/2020,Sumo Logic| Inc.,SUMO,Technology,MS| JPM| RBC| JEFFER,NASDAQ,325|600|000,22,Above
-09/17/2020,Unity Software Inc.,U ,Technology,GS| CS| BAML| BRCLY| WBLAIR,New York Stock Exchange,1|300|000|000,52,Above
-09/15/2020,Jfrog LTD,FROG,Technology,MS| JPM| BAML,NASDAQ,585|351|800,44,Above
-09/17/2020,Vitru Limited,VTRU,Consumer Services,GS| BAML| ITAU| MS| BANCOBRA| BTGPAC| CS| SANTANDER| XPSEC,NASDAQ,96|000|000,16,Within
+  Price Date  ,  Issuer  ,  Ticker  ,  Industry  ,  Bookrunner(S)  ,  Exchange  ,  Amt+ Over. ($MM)  ,  Offer Price ($)  ,  Price Vs. Last Range  ,
+09/25/2020,BlackRock Capital Allocation Trust,BCAT,Financials,BAML| MS| UBS| WFC| AMERWXFA| OPPEN| RBC| STFL,New York Stock Exchange,2|000|000|000,20,Within,
+09/22/2020,Bentley Systems| Incorporated,BSY,Technology,GS| BAML| RBC,NASDAQ,271|941|802,22,Above,
+09/22/2020,Corsair Gaming| Inc.,CRSR,Technology,GS| BRCLY| CS| MACQUARIE| RBAIRD| COWEN| STFL,NASDAQ,238|000|000,17,Within,
+09/22/2020,GoodRx Holdings| Inc.,GDRX,Technology,MS| GS| JPM| BRCLY| BAML| CITI| CS| RBC| UBS| COWEN| DB| EVERCORE,NASDAQ,1|313|653|803,33,Above,
+09/22/2020,Laird Superfood| Inc.,LSF,Consumer Services,CANACC| CRAIGHAL,NYSE American Exchange,67|045|000,22,Within,
+09/23/2020,Taysha Gene Therapies| Inc.,TSHA,Healthcare,GS| MS| JEFFER| CHARDAN   ,NASDAQ,157|391|320,20,Within,
+09/24/2020,VIA optronics AG,VIAO,Technology,BERENBK,New York Stock Exchange,93|750|000,15,Within,
+09/24/2020,Graybug Vision| Inc.,GRAY,Healthcare,SVBLEER   | PIPERSAND| NEEDHAM| WEDBUSH,NASDAQ,90|000|000,16,Within,
+09/24/2020,Prelude Therapeutics Inc.,PRLD,Healthcare,MS| GS| BAML,NASDAQ,158|175|000,19,Within,
+09/24/2020,PMV Pharmaceuticals| Inc,PMVP,Healthcare,GS| BAML| COWEN| EVERCORE,NASDAQ,211|770|000,18,Within,
